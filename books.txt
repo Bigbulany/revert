@@ -2,3 +2,4 @@ maths
 english
 social 
 business 
+fine art
